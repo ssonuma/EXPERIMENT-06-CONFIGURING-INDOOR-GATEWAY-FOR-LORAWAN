@@ -83,10 +83,13 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![Screenshot 2024-10-14 085524](https://github.com/user-attachments/assets/ebc04e86-e925-40be-a15d-5328687f3f56)
+![Screenshot 2024-10-14 085724](https://github.com/user-attachments/assets/a368db59-23ed-4a7c-835d-77e9e0a5bba6)
+![Screenshot 2024-10-14 090053](https://github.com/user-attachments/assets/52635b18-2bc2-42bc-8b1c-722590a24ac6)
 
 
 
 
 ## Results: 
-
+The indoor gateway for lorwan is executed.
 
