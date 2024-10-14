@@ -91,9 +91,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 ![Screenshot 2024-10-14 090053](https://github.com/user-attachments/assets/52635b18-2bc2-42bc-8b1c-722590a24ac6)
 
 ![WhatsApp Image 2024-10-14 at 9 11 11 AM](https://github.com/user-attachments/assets/707cb3fd-4a1a-4708-883d-a4262b59690b)
+![WhatsApp Image 2024-10-14 at 9 11 12 AM](https://github.com/user-attachments/assets/a8d6701f-a54d-4373-9857-4cfc81b3a8c0)
 ![WhatsApp Image 2024-10-14 at 9 11 13 AM](https://github.com/user-attachments/assets/df81bdee-6afd-4a0a-bd2c-e94824dd8129)
 ![WhatsApp Image 2024-10-14 at 9 11 45 AM](https://github.com/user-attachments/assets/eaa4250f-7af9-4562-bf24-04e1f15fa5b2)
-![WhatsApp Image 2024-10-14 at 9 11 45 AM](https://github.com/user-attachments/assets/3b2019cd-2229-45a9-803c-d853f89b9c6e)
+
 
 
 
